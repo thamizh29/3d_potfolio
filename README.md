@@ -2,6 +2,19 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo
+[![Watch Video](https://img.shields.io/badge/Watch-Video-red?style=for-the-badge)](https://www.youtube.com/watch?v=13f5Zp5mjb8)
+
+## Screenshots
+
+<div>
+    <img src="gh-contents/1.png" width="50%"></img> 
+    <img src="gh-contents/2.png" width="50%"></img>
+    <img src="gh-contents/3.png" width="50%"></img>
+    <img src="gh-contents/4.png" width="50%"></img>
+    <img src="gh-contents/5.png" width="50%"></img>
+</div>
+
 ## Available Scripts
 
 In the project directory, you can run:
