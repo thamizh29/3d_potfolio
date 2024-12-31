@@ -338,7 +338,7 @@ function loadIntroText() {
       new THREE.MeshPhongMaterial({ color: 0x171f27, flatShading: true }),
       new THREE.MeshPhongMaterial({ color: 0xffffff }),
     ];
-    const titleGeo = new TextGeometry('ARIS HADISOPIYAN', {
+    const titleGeo = new TextGeometry('Mathu', {
       font: font,
       size: 0.08,
       height: 0.01,
@@ -355,7 +355,7 @@ function loadIntroText() {
       new THREE.MeshPhongMaterial({ color: 0xffffff }),
     ];
     const subTitleGeo = new TextGeometry(
-      'Web Designer / Developer / Content Creator',
+      'Cyber security',
       {
         font: font,
         size: 0.018,
